@@ -20,6 +20,7 @@
 
     <properties>
         <java.version>1.8</java.version>
+        <start-class>guru.springframework.sfgpetclinic.SfgPetClinicApplication</start-class>
     </properties>
 
     <dependencies>
@@ -45,7 +46,7 @@
     </build>
     <scm>
         <developerConnection>scm:git:https://github.com/PMizer/pet-clinic.git</developerConnection>
-        <tag>HEAD</tag>
-    </scm>
+      <tag>pet-clinic-0.0.1</tag>
+  </scm>
 
 </project>
