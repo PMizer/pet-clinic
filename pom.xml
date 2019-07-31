@@ -21,7 +21,7 @@
 
     <properties>
         <java.version>1.8</java.version>
-        <start-class>guru.springframework.sfgpetclinic.SfgPetClinicApplication</start-class>
+        <start-class>com.pm.springframework.petclinic.PetClinicApplication</start-class>
     </properties>
 
     <dependencies>
